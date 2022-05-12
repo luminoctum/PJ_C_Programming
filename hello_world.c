@@ -1,11 +1,8 @@
 #include <stdio.h>
 int main ()
 {
-	printf("hello, world\n");
-      	printf("what's going on?\n"); 	
+  printf("hello, world\n");
+  printf("what's going on?\n"); 	
 
-	return 0;
-
-
+  return 0;
 }
-
