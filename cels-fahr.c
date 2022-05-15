@@ -2,7 +2,7 @@
 /* print Celsius-Fahr table
 for celsius  = 0, 20, ..., 300; floating-point version */
 int  main()
-	 {
+{
 	 float fahr, celsius;
 	 float lower, upper, step;
 	 lower = 0; /* lower limit of temperatuire scale */
@@ -16,4 +16,4 @@ int  main()
 		 celsius = celsius + step;
 		 }
 	 return 0;
-   }
+}
